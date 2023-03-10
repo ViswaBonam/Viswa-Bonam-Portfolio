@@ -36,7 +36,7 @@ Libraries: pandas, numpy, matplotlib, seaborn, scikit_learn
 |---|---|---|---|
 |[EDA for Data Science Salaries](https://github.com/ViswaBonam/EDA-for-Data-Science-Salaries-)| Data Cleaning and EDA | Analysed the salaries of data professionals over a period of 2 years(2020 to 2022) and found relevant insights. | _pandas, numpy, matplotlib, pyplot_ |
 | [Housing prices Prediction](https://github.com/ViswaBonam/Housing-Prices-Prediction-) | Machine Learning | In this project housing data is used to analyse and predict the SalePrice of houses with the help of LinearRegression, DecisionTrees and RandomForest. | _pandas, seaborn, scikit_learn_ |  
-| [Used-Car-Price-Prediction](https://github.com/ViswaBonam/Used-Car-Price-Prediction) | Data cleaning, preprocessing and Machine Learning | | _pandas, seaborn, scikit_learn_ |
+| [Used Car Price Prediction](https://github.com/ViswaBonam/Used-Car-Price-Prediction) | Data cleaning, preprocessing and Machine Learning | | _pandas, seaborn, scikit_learn_ |
 
 
 ***
